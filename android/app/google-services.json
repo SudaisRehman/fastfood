@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611474932237",
+    "project_id": "fastfoods-34c32",
+    "storage_bucket": "fastfoods-34c32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611474932237:android:0d598ffe8dd7d8224b0b44",
+        "android_client_info": {
+          "package_name": "com.example.ktk_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUqbaXFzgBTWPZelB-inyJbIRhfOoI9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
